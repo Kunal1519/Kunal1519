@@ -1,6 +1,5 @@
-<div >
-  <h3 style="text-align: center;">Hi 👋, I'm Kunal Jaiswal</h3>
-</div>
+
+<h3 align="center">Hi 👋, I'm Kunal Jaiswal</h3>
 <hr>
 I'm a Associate Software Developer - Full Stack Developer in SAP Swiss Tech Private Limited , Delhi, India.
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Jaiswal</h1>
 <h3 align="center">I'm a Associate Software Developer - Full Stack Developer in SAP Swiss Tech Private Limited from Delhi,India.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal1519" alt="arsaraf" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsaraf&label=Profile%20views&color=0e75b6&style=flat" alt="arsaraf" /> </p>
 
 - 🔭 I’m currently working on **SQL server, Dotnet Core, Blazor**
 
